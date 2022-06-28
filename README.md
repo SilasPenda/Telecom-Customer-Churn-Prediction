@@ -1,5 +1,5 @@
 # Telecom-Customer-Churn-Prediction
-This is a supervised machine learning project using telecom customer data to predict customers that would churn.
+This is a supervised machine learning project using telecom customer data to predict customers that would churn based on customer Age Group, Relationship Status, Subscribed Services, Charges, and Finantial Responsibilities, .
 ## Project Guide
 In this project i made use of Pandas, Numpy, train_test_split, RandomForestClassifier, SVM, LogisticRegression, cross_val_score, and StandardScaler
 
