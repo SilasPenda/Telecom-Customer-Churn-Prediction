@@ -11,8 +11,9 @@ This project was carried out using the following steps:
   * Dropping rows with empty columns
   * Applying appropriate column format (astype(float))
   * Checking for outliers using Z-score
-* Creating dummy columns for machine learning
+* Use histogram to represent customer churn based on tenure and monthly charges
+* One hot encoding
 * Grouping dependent and independent variables and scaling the independent variables appropriately
-* Use Cross Validation Score to determine the best performing model
+* Use GridSearchCV to determine the best performing model
 * Train the best performing model to make predictions 
 * Make predictions
